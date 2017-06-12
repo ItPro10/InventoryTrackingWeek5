@@ -13,4 +13,4 @@ This application prompts the user for input
 Additional Info
 Framework and Architecture separated into different packages.
 Default package contains the demo class - InventoryTrackingDemo5.java
-MyFramework package contains teh framework classes
+MyFramework package contains the framework classes
